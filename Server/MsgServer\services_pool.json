@@ -1,0 +1,13 @@
+[
+  {
+    "connection_protocol": "tcp",
+    "ip_address": "127.0.0.1",
+    "kdc_port": 8000,
+    "port": 50226,
+    "server_id_hex": "f13f656b591a48f2b433d0e4ef609efb",
+    "service_name": "Printer 10",
+    "ticket_iv": "{}",
+    "service_aes_key_encoded": "Ci7Q2P7j3OCCYs5QyRgzZTflOFtKcWWaTJqd7BWR2C4=",
+    "is_registered": true
+  }
+]

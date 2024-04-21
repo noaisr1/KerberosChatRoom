@@ -1,0 +1,9 @@
+[
+  {
+    "server_id_hex": "f13f656b591a48f2b433d0e4ef609efb",
+    "name": "Printer 10",
+    "aes_key_encoded": "Ci7Q2P7j3OCCYs5QyRgzZTflOFtKcWWaTJqd7BWR2C4=",
+    "server_ip": "127.0.0.1",
+    "server_port": 50226
+  }
+]
